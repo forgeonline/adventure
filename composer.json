@@ -1,0 +1,14 @@
+{
+    "name": "forgeonline/adventure",
+    "description": "Forge adventure theme",
+    "keywords": ["magento", "developers"],
+    "authors": [
+        {
+            "name": "D N N Udugala"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/forgeonline/adventure/issues"
+    },
+    "license": "CC"
+}
